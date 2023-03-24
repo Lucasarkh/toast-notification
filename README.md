@@ -1,15 +1,15 @@
-# Desafio toast notification <img src="https://github.com/Lucasarkh/toast-notification/blob/main/favicon.png" style="width: 40px; height: 40px;">
+# Toast notifications <img src="https://github.com/Lucasarkh/toast-notification/blob/main/favicon.png" style="width: 40px; height: 40px;">
 
 ## Tópicos
 
 - [Visão Geral](#visão-Geral)
   - [O desafio](#o-desafio)
-  - [Principais desafios a serem superados](principais-desafios-a-serem-superados)
+  - [Principais desafios a serem superados](#principais-desafios-a-serem-superados)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [Processo de criação](#processo-de-criação)
   - [Desenvolvido em](#desenvolvido-em)
-  - [Respostas das perguntas enviadas no e-mail](#respostas-das-perguntas-enviadas-no-e-mail)
+- [Respostas das perguntas enviadas no e-mail](#respostas-das-perguntas-enviadas-no-e-mail)
 - [Autor](#autor)
 
 ## Visão geral
