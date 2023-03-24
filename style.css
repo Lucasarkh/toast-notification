@@ -14,7 +14,7 @@ body {
 
 main {
     height: 100vh;
-    background: url(/Assets/bg.png);
+    background: url(Assets/bg.png);
     background-size: cover;
 }
 
