@@ -12,7 +12,7 @@ body {
     background: linear-gradient(45deg, white, rgb(255, 138, 43));
 }
 
-main {
+.container {
     height: 100vh;
     background: url(Assets/bg.png);
     background-size: cover;
@@ -280,3 +280,18 @@ main {
     color: rgb(255, 0, 0);
 }
 
+.container--footer {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 30vh;
+    align-items: end;
+
+
+}
+
+.container--footer a img {
+    width: 50px;
+    margin: 40px 24px;
+
+}
