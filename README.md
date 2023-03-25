@@ -55,7 +55,7 @@ O Objetivo deste projeto é escrever um código em javascript que crie um toast 
 ### Links
 
 - Live Site URL: [GitHub Pages](https://lucasarkh.github.io/toast-notification//)
-- Vídeo do site em funcio
+- Vídeo do site em funcionamento: [YouTube](https://youtu.be/iBgP4_vcFL0)
 
 ## Processo de criação
 
