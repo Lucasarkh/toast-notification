@@ -14,9 +14,9 @@ function showSuccessMsg () {
         successMsgActive = true;
         clearTimeout(x);
         if (toastSuccess.classList.contains("hide-toast-success")) {
+            toastSuccess.classList.remove("hide-toast-success");
             containerSuccess.style.zIndex = "2";
             containerError.style.zIndex = "1";
-            toastSuccess.classList.remove("hide-toast-success");
         }
         
         toastSuccess.classList.add("show-toast-success");
@@ -43,8 +43,6 @@ function closeToastSuccess() {
     successMsgActive = false;
 }
 
-
-
 //Exibe o toast de Erro
 function showErrorMsg () {
     // Verifica se a função showSuccessMsg não está ativa
@@ -52,9 +50,9 @@ function showErrorMsg () {
         errorMsgActive = true;
         clearTimeout(x);
         if (toastError.classList.contains("hide-toast-error")) {
+            toastError.classList.remove("hide-toast-error");
             containerError.style.zIndex = "2";
             containerSuccess.style.zIndex = "1";
-            toastError.classList.remove("hide-toast-error");
         }
         
         toastError.classList.add("show-toast-error");
