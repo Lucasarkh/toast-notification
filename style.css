@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Merienda', cursive;
 }
 
 body {
@@ -64,7 +65,6 @@ body {
     box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.5);
     background: linear-gradient(rgb(198, 255, 106),lightgreen);
     color:#502400;
-    font-family: 'Poppins', sans-serif;
 }
 
 .success--btn:hover {
@@ -91,7 +91,6 @@ body {
     box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.5);
     background: linear-gradient(rgb(255, 95, 32),rgb(255, 96, 96));
     color:#502400;
-    font-family: 'Poppins', sans-serif;
 }
 
 .error--btn:hover {
@@ -159,10 +158,6 @@ body {
     box-shadow: 2px 5px 5px rgb(0, 0, 0, 0.5);
 }
 
-.toast-success-text {
-    font-family: 'Poppins', sans-serif;
-}
-
 .toast-success-text p:first-child {
     font-weight: 600;
 }
@@ -224,10 +219,6 @@ body {
     transition: 1s;
 }
 
-.toast-error-text {
-    font-family: 'Poppins', sans-serif;
-}
-
 .toast-error-text p:first-child {
     font-weight: 600;
 }
@@ -262,14 +253,13 @@ body {
 
 .text--footer {
     text-align: center;
-    font-family: 'Poppins', sans-serif;
     color: #502400;
 }
 
 .container--footer a img {
     width: 50px;
     margin: 24px 16px;
-        color: #502400;
+    color: #502400;
 }
 
 /********** BACKGROUND LIVE IMAGES **********/
