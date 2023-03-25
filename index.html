@@ -18,45 +18,47 @@
             </div>
         </header>
 
-        <div class="container--btn">
-            <div>
-                <button class="success--btn" onclick="showSuccessMsg()">Sucesso</button>
+        <main>
+            <div class="container--btn">
+                <div>
+                    <button class="success--btn" onclick="showSuccessMsg()">Sucesso</button>
+                </div>
+
+                <div>
+                    <button class="error--btn" onclick="showErrorMsg()">Erro</button>
+                </div>
+            </div>
+            
+            <div class="container-toast-success">
+                <div id="toast--success" class="hide-toast-success">
+                    <div class="toast-success-check-icon">
+                        <ion-icon name="checkbox-outline"></ion-icon>
+                    </div>
+                    <div class="toast-success-text">
+                        <p>Sucesso!</p>
+                        <p>O comando foi executado com êxito!</p>
+                    </div>
+                    <button id="close--btn" onclick="closeToastSuccess()">
+                        <ion-icon name="close-outline"></ion-icon>
+                    </button>
+                </div>
             </div>
 
-            <div>
-                <button class="error--btn" onclick="showErrorMsg()">Erro</button>
+            <div class="container-toast-error">
+                <div id="toast--error" class="hide-toast-error">
+                    <div class="toast-error-check-icon">
+                        <ion-icon name="close-circle-outline"></ion-icon>
+                    </div>
+                    <div class="toast-error-text">
+                        <p>Erro!</p>
+                        <p>Falha ao executar o comando.</p>
+                    </div>
+                    <button id="close--btn" onclick="closeToastError()">
+                        <ion-icon name="close-outline"></ion-icon>
+                    </button>
+                </div>
             </div>
-        </div>
-
-        <div class="container-toast-success">
-            <div id="toast--success" class="toast--success">
-                <div class="toast-success-check-icon">
-                    <ion-icon name="checkbox-outline"></ion-icon>
-                </div>
-                <div class="toast-success-text">
-                    <p>Sucesso!</p>
-                    <p>O comando foi executado com êxito!</p>
-                </div>
-                <button id="close" onclick="closeToastSuccess()">
-                    <ion-icon name="close-outline"></ion-icon>
-                </button>
-            </div>
-        </div>
-
-        <div class="container-toast-error">
-            <div id="toast--error" class="toast--error">
-                <div class="toast-error-check-icon">
-                    <ion-icon name="close-circle-outline"></ion-icon>
-                </div>
-                <div class="toast-error-text">
-                    <p>Erro!</p>
-                    <p>Falha ao executar o comando.</p>
-                </div>
-                <button id="close" onclick="closeToastError()">
-                    <ion-icon name="close-outline"></ion-icon>
-                </button>
-            </div>
-        </div>
+        </main>
 
         <footer>
             <div class="container--footer">
