@@ -1,4 +1,4 @@
-# Toast notifications <img src="https://github.com/Lucasarkh/toast-notification/blob/main/favicon.png" style="width: 40px; height: 40px;">
+# Gerador de toasts <img src="https://github.com/Lucasarkh/toast-notification/blob/main/favicon.png" style="width: 40px; height: 40px;">
 
 ## Tópicos
 
