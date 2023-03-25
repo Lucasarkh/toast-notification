@@ -17,7 +17,8 @@
 
 ### O desafio
 
-O Objetivo deste projeto é escrever um código em javascript que crie um toast pop-up no canto da tela notificando um erro ou um sucesso.
+- O Objetivo deste projeto é escrever um código em javascript que crie um toast pop-up no canto da tela notificando um erro ou um sucesso.
+- A interface foi criada utilizando conceitos simples de *UI e UX design* para entregar uma experiência melhor ao usuário.
 
 ### Principais desafios a serem superados
 
