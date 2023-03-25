@@ -285,11 +285,13 @@ body {
 .text--footer {
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    color: #502400;
 }
 
 .container--footer a img {
     width: 50px;
     margin: 24px 16px;
+        color: #502400;
 }
 
 /********** KEYFRAMES **********/
