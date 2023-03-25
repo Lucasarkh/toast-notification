@@ -10,6 +10,7 @@
 - [Processo de criação](#processo-de-criação)
   - [Desenvolvido em](#desenvolvido-em)
 - [Respostas das perguntas enviadas no e-mail](#respostas-das-perguntas-enviadas-no-e-mail)
+- [Considerações finais](#considerações-finais)
 - [Autor](#autor)
 
 ## Visão geral
@@ -79,6 +80,11 @@ Os principais benefícios de utilizar o framework de CSS bootstrap é poupar o t
 
 ### d) Qual sua especialidade em desenvolvimento front-end?
 Minha maior especialidade neste momento é em design de interface e experiência do usuário tendo a criatividade como qualidade pessoal acentuada.
+
+## Considerações finais
+
+- O códido foi escrito utilizando a linguagem javaScript básica e pura, está apto para melhorias futuras e incrementação de funcionalidades.
+- Também é válido ressaltar que frameworks como bootstrap, react e outros também criariam toast pop-ups e dependendo do contexto é até melhor utilizá-los para polpar tempo e linhas de código.
 
 ## Autor
 
