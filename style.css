@@ -11,7 +11,9 @@ body {
     background: linear-gradient(45deg, white, rgb(255, 138, 43));
 }
 
-.container {
+/********** HEADER **********/
+
+.container--header {
     height: 100vh;
     background: url(Assets/bg.png);
     background-size: cover;
@@ -39,6 +41,8 @@ body {
     text-align: center;
     color: #502400;
 }
+
+/********** MAIN **********/
 
 .container--btn {
     display: flex;
@@ -134,46 +138,6 @@ body {
     animation: imgAnimate3 60s linear normal infinite;
     z-index: -3;
 }
-
-
-
-@keyframes imgAnimate1 {
-    from {
-        bottom: -100px;
-        left: -100px;
-        transform: rotate(0);
-    }to {
-        bottom: calc(100vh + 100px);
-        left: calc(100vw + 100px);
-        transform: rotate(360deg);
-    }
-}
-
-@keyframes imgAnimate2 {
-    from {
-        top: -100px;
-        left: -150px;
-        transform: rotate(0);
-    }to {
-        top: calc(100vh + 100px);
-        left: calc(100vw + 150px);
-        transform: rotate(360deg);
-    }
-}
-
-@keyframes imgAnimate3 {
-    from {
-        bottom: -100px;
-        right: -50px;
-        transform: rotate(0);
-    }to {
-        bottom: calc(100vh + 100px);
-        right: calc(100vw + 50px);
-        transform: rotate(360deg);
-    }
-}
-
-
 
 /********** SUCCESS TOASTS **********/
 
@@ -328,4 +292,41 @@ body {
     margin: 24px 16px;
 }
 
+/********** KEYFRAMES **********/
 
+
+@keyframes imgAnimate1 {
+    from {
+        bottom: -100px;
+        left: -100px;
+        transform: rotate(0);
+    }to {
+        bottom: calc(100vh + 100px);
+        left: calc(100vw + 100px);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes imgAnimate2 {
+    from {
+        top: -100px;
+        left: -150px;
+        transform: rotate(0);
+    }to {
+        top: calc(100vh + 100px);
+        left: calc(100vw + 150px);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes imgAnimate3 {
+    from {
+        bottom: -100px;
+        right: -50px;
+        transform: rotate(0);
+    }to {
+        bottom: calc(100vh + 100px);
+        right: calc(100vw + 50px);
+        transform: rotate(360deg);
+    }
+}
