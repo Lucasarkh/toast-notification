@@ -25,21 +25,37 @@ O Objetivo deste projeto é escrever um código em javascript que crie um toast 
 - Design agradável e chamativo.
 - Página toalmente responsiva.
 
+### Como funciona?
+
+- O site contém dois botões, **um de sucesso e o outro de erro**. <br>
+- Quando clicado no botão de sucesso, um toast pop-up aparece dizendo *"Sucesso! O comando foi executado com êxito.* <br>
+- Quando clicado no botão de erro aparecerá uma mensagem dizendo *"Erro! Falha ao executar o comando."*<br>
+- O toast pop-up fecha automaticamente após 4 segundos, porém é possível fechá-lo manualmente clicando no ícone (X).
+
 ### Screenshots
 
-<p align="center"> Home page </p>
+<p align="center"> Página inicial </p>
 <p align="center">
-  <img align="center" src="" width="800" title="home">
+  <img align="center" src="https://github.com/Lucasarkh/toast-notification/blob/main/Screenshots/01.png" width="800" title="Página inicial">
 </p>
+<br>
+<p align="center"> Toasts de sucesso e erro </p>
+<p align="center">
+  <img align="center" src="https://github.com/Lucasarkh/toast-notification/blob/main/Screenshots/02.png" width="300" title="toast de sucesso">
+  <img align="center" src="https://github.com/Lucasarkh/toast-notification/blob/main/Screenshots/03.png" width="300" title="toast de erro">
+</p>
+
 
 <p align="center"> Home page mobile </p>
 <p align="center">
-  <img align="center" src="" width="200" title="home mobile">
+  <img align="center" src="https://github.com/Lucasarkh/toast-notification/blob/main/Screenshots/04.png" width="200" title="mobile success toast">
+    <img align="center" src="https://github.com/Lucasarkh/toast-notification/blob/main/Screenshots/05.png" width="200" title="mobile success toast">
 </p>
 
 ### Links
 
 - Live Site URL: [GitHub Pages](https://lucasarkh.github.io/toast-notification//)
+- Vídeo do site em funcionamento: [YouTube](https://youtu.be/iBgP4_vcFL0)
 
 ## Processo de criação
 
