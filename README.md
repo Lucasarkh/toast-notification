@@ -23,7 +23,7 @@
 ### Principais desafios a serem superados
 
 - Funcionalidades envolvendo javaScript.
-- Criação de elementos interativos utilizando a pseudo-classe hover e active.
+- Criação de elementos interativos utilizando as pseudo-classes hover e active.
 - Design agradável e chamativo.
 - Página toalmente responsiva.
 
