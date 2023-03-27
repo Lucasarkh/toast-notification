@@ -88,7 +88,7 @@ Minha maior especialidade neste momento é em design de interface e experiência
 ## Considerações finais
 
 - O códido foi escrito utilizando a linguagem javaScript básica e pura, está apto para melhorias futuras e incrementação de funcionalidades.
-- Também é válido ressaltar que frameworks como bootstrap, react e outros também criariam toast pop-ups e dependendo do contexto é até melhor utilizá-los para polpar tempo e linhas de código.
+- Também é válido ressaltar que frameworks como bootstrap, react e outros também criariam toast pop-ups e dependendo do contexto é até melhor utilizá-los para poupar tempo e linhas de código.
 
 ## Autor
 
