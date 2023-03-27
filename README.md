@@ -25,7 +25,7 @@
 - Funcionalidades envolvendo javaScript.
 - Criação de elementos interativos utilizando as pseudo-classes hover e active.
 - Design agradável e chamativo.
-- Página toalmente responsiva.
+- Página totalmente responsiva.
 
 ### Como funciona?
 
